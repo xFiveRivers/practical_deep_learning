@@ -1,2 +1,3 @@
-# practical_deep_learning
-Files created and used for the FastAI Practical Deep Learning course.
+# Practical Deep Learning
+
+This repository contains all of the files/books created and used while learning more about deep learning through FastAI's `Practical Deep Learning for Coders` online course.
